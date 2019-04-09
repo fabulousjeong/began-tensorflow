@@ -1,6 +1,6 @@
 # began-tensorflow
 Tensorflow implementation of [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717). Please refer to the [article](https://github.com/zsdonghao/text-to-image) which presents the details about algorithm and code.
-![alt tag](imges/BEGAN.png)
+![alt tag](images/BEGAN.png)
 
 ## Prerequisites
 - Python 2.7
@@ -23,7 +23,7 @@ We measured the value of convergence per 300 steps.
 
     $ tensorboard --logdir ./logs
 
-![the global measure of convergence](imges/measure.png)
+![the global measure of convergence](images/measure.png)
 
 
 Third, run test.py
