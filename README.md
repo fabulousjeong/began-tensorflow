@@ -33,3 +33,5 @@ restore model with latest_checkpoint.
 generate sample results based on uniform random vector. 
 
 ## Results
+
+![snapshots while training](images/began-training.gif)
