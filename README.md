@@ -35,6 +35,7 @@ Restore model with latest_checkpoint.
 While on training, checkpoint(ckpt) is generated in model folder.
 
 Or you can download pretrained model from below link.
+
 https://drive.google.com/open?id=1qOF3drMy0EGvWAahwJpweOyCzuoZy5Va
 
 Generate sample results based on uniform random vector. 
