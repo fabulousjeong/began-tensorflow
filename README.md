@@ -1,5 +1,5 @@
 # began-tensorflow
-Tensorflow implementation of [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717). Please refer to the [article](https://github.com/zsdonghao/text-to-image) which presents the details about algorithm and code.
+Tensorflow implementation of [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717). Please refer to the [article](https://medium.com/@fabulousjeong/tensorflow-began-boundary-equilibrium-generative-adversarial-networks-337b8fd95e1b?source=friends_link&sk=c472e01f166c98156b559a41a676432d) which presents the details about algorithm and code.
 ![alt tag](images/BEGAN.png)
 
 ## Prerequisites
