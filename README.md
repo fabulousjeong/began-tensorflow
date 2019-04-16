@@ -29,8 +29,15 @@ We measured the value of convergence per 300 steps.
 Third, run test.py
 
     $ python test.py
-restore model with latest_checkpoint. 
-generate sample results based on uniform random vector. 
+
+Restore model with latest_checkpoint. 
+
+While on training, checkpoint(ckpt) is generated in model folder.
+
+Or you can download pretrained model from below link.
+https://drive.google.com/open?id=1qOF3drMy0EGvWAahwJpweOyCzuoZy5Va
+
+Generate sample results based on uniform random vector. 
 
 ## Results
 
