@@ -79,10 +79,6 @@ class BEGAN(object):
 
         return model
 
-    # symmetrical structure with the generator
-    # use conv2d with stride size 2. 
-    # Same as in generator, batchnorm is placed at the end of each layer. 
-    # But leaky relu is used as the activate function.
     def discriminator(self):
         inputs = tf.keras.Input(shape=(64, 64, 3))
         x = self.encoder()(inputs)
